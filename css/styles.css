@@ -270,6 +270,7 @@ img {
 
 .portfolio-content {
   border: 1px solid #e7e9fc;
+  margin-top: none;
   padding: 32px 16px;
 }
 
@@ -282,7 +283,7 @@ img {
   background-color: #2e2f42;
 }
 
-.logo {
+.footer-logo {
   display: inline-block;
   margin-bottom: 16px;
 }
@@ -292,6 +293,7 @@ img {
 }
 
 .footer-text {
+  max-width: 264px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
