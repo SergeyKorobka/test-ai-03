@@ -130,15 +130,14 @@ img {
 
 .header-logo {
   padding: 24px 0;
-  margin-right: 76px;
 }
 
 .header-logo .logo-part {
   color: #2e2f42;
-  margin-right: 76px;
 }
 
 .nav-link {
+  padding: 24px 0;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -160,6 +159,7 @@ img {
 }
 
 .contacts-link {
+  padding: 24px 0;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
