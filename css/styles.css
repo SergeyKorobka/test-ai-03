@@ -282,7 +282,7 @@ img {
   background-color: #2e2f42;
 }
 
-.footer-logo {
+.logo {
   display: inline-block;
   margin-bottom: 16px;
 }
@@ -292,8 +292,6 @@ img {
 }
 
 .footer-text {
-  max-width: 264px;
-
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
