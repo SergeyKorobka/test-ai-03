@@ -14,16 +14,6 @@ ol {
   list-style-type: none;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
-  margin: 0;
-}
-
 a {
   text-decoration: none;
   color: currentColor;
@@ -217,14 +207,15 @@ img {
 
 /*#region Benefits*/
 
-.benefits-list {
-  display: flex;
-  gap: 24px;
+.benefits-title {
+  margin-bottom: 76px;
 }
 
-.benefits-item {
-  width: calc((100% - 72px) / 4);
+.benefits-list {
+  display: flex;
+  justify-content: space-between;
 }
+
 /*#endregion Benefits*/
 
 /*#region Team*/
